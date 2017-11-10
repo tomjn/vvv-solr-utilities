@@ -1,4 +1,4 @@
-# VVV Solr
+# VVV Solr Utilities
 
 Utility to install Solr (and Java) as part of provisioning in [VVV](https://github.com/varying-vagrant-vagrants/vvv/).
 
