@@ -12,8 +12,9 @@ utilities:
   solr:
     - java9
     - solr71
+
 utility-sources:
-  java: https://github.com/ocean90/vvv-solr-utilities.git
+  solr: https://github.com/ocean90/vvv-solr-utilities.git
 ```
 
 For more see the [official VVV documentation on utilities](https://varyingvagrantvagrants.org/docs/en-US/utilities/).
