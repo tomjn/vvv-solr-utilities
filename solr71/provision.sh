@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-SOLR_VERSION='6.6.2'
+SOLR_VERSION='7.1.0'
 
 if [[ -d /opt/solr && $(basename $(readlink -e /opt/solr)) == "solr-${SOLR_VERSION}" ]]; then
 	echo "Apache Solr ${SOLR_VERSION} is already installed."
